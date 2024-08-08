@@ -1,2 +1,4 @@
 node_modules
 notes-app.pem
+.env
+.prod.env
